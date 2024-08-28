@@ -347,6 +347,8 @@
     .main_btn {
         padding: 12px 36px;
         margin: 2.5rem 0;
+        color: #fff;
+        text-decoration: none;
     }
 }
 
